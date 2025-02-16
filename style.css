@@ -47,7 +47,6 @@ nav .nav-links a:focus {
     min-height: 50vh; 
     margin: 0 auto 20px;
     opacity: 0.9;
-    background-color: #ff0101;
     text-align: center;
     font-size: 30px;
 }
